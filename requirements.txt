@@ -1,0 +1,22 @@
+# notebook
+notebook
+jupyterlab
+nbconvert
+jupytext
+
+# modeling
+hydra-core
+wandb
+einops
+
+# huggingface
+transformers
+datasets
+accelerate
+huggingface_hub
+
+# style
+nb_black
+autoflake
+black
+isort
